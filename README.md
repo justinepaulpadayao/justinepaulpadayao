@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=justinepaulpadayao&color=blue&style=flatsquare)
+![](https://komarev.com/ghpvc/?username=justinepaulpadayao&color=blue&style=flatsquare&label=Profile+Views)
                 
 
 <!--
