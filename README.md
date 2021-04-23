@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+![Profile Views](https://visitor-badge.glitch.me/badge?page_id=justinepaulpadayao.visitor-badge.issue.1)
                 
 
 <!--
