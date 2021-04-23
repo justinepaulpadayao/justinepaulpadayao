@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### Language & Tools
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justinepaulpadayao)](https://github.com/justinepaulpadayao/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justinepaulpadayao&theme=react)](https://github.com/justinepaulpadayao/github-readme-stats)
 
 
 
