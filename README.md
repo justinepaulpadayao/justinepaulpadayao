@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there, beautiful human! I'm Justine.
+
+I'm a **Mechanical Engineer** and a Data Scientist. I love to build products that optimize 
 
 ![](https://komarev.com/ghpvc/?username=justinepaulpadayao&color=blue&style=flatsquare&label=Profile+Views)
                 
