@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Profile Views](https://visitor-badge.glitch.me/badge?page_id=justinepaulpadayao.visitor-badge)
+![](https://komarev.com/ghpvc/?username=justinepaulpadayao&color=blue&style=flatsquare)
                 
 
 <!--
