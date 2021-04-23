@@ -21,9 +21,6 @@ Here are some ideas to get you started:
 -->
 
 ### Language & Tools
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justinepaulpadayao&theme=react)](https://github.com/justinepaulpadayao/github-readme-stats)
-
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justinepaulpadayao&theme=react&layout=compact)](https://github.com/justinepaulpadayao/github-readme-stats)
 
 [![Justines's GitHub stats](https://github-readme-stats.vercel.app/api?username=justinepaulpadayao&show_icons=true&theme=react)](https://github.com/justinepaulpadayao/github-readme-stats)
