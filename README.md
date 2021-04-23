@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 
 
 
-[![Justines's GitHub stats](https://github-readme-stats.vercel.app/api?username=justinepaulpadayao&showicons=true&theme=react)](https://github.com/justinepaulpadayao/github-readme-stats)
+[![Justines's GitHub stats](https://github-readme-stats.vercel.app/api?username=justinepaulpadayao&show_icons=true&theme=react)](https://github.com/justinepaulpadayao/github-readme-stats)
